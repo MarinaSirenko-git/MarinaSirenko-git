@@ -19,5 +19,5 @@
 ## Контакты и резюме
 
 - Я всегда на связи в telegram [@sirenko_marina](https://t.me/sirenko_marina)
-- Бльше информации в [резюме](https://docs.google.com/document/d/1h0Mxbn1ennE3qTiGaafrV31WAHj_YOAmyzylkGcPYwU/edit?usp=sharing)
+- Больше информации в [резюме](https://docs.google.com/document/d/1h0Mxbn1ennE3qTiGaafrV31WAHj_YOAmyzylkGcPYwU/edit?usp=sharing)
 
