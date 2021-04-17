@@ -18,4 +18,5 @@
 - Больше информации в [резюме](https://docs.google.com/document/d/1h0Mxbn1ennE3qTiGaafrV31WAHj_YOAmyzylkGcPYwU/edit?usp=sharing)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaSirenko-git&layout=compact)](https://github.com/MarinaSirenko-git/github-readme-stats)
-[![Sirenko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarinaSirenko)](https://github.com/MarinaSirenko-git/github-readme-stats)
+![](C:\Users\Marina\dev\MarinaSirenko-git\images)
+
