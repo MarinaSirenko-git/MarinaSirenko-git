@@ -5,7 +5,7 @@ My name is Marina. I work at [Devhouse](https://www.devhouse.pro/) company with 
 ## I work with
 
 - MarsX
-- Vue2, Vue3, Node.JS, Tailvind CSS
+- Vue2, Vue3, Node.JS, Tailwind CSS
 - React, Redux, TS
 - JS, CSS, HTML, Git
 - Express.js 
