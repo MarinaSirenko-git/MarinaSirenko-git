@@ -1,17 +1,97 @@
-# Hello👋
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+</p>
 
-My name is Marina. I work at [Devhouse](https://www.devhouse.pro/) company with a team that develops [MarsX](https://www.marsx.dev/).
+### 👋 About me / Обо мне
 
-## I work with
+Mid-level Frontend Developer (Vue/React). I solve problems in code and communication and love understanding how systems work end to end.  
+Middle Frontend Developer (Vue/React). Решаю задачи — и в коде, и в коммуникации — и обожаю разбираться, как устроены системы целиком.
 
-- MarsX
-- Vue2, Vue3, Node.js, Tailwind CSS
-- React, Redux, TS
-- JS, CSS, HTML, Git
-- Express.js 
- 
-## Contacts
+---
 
-- Telegram [@sirenko_marina](https://t.me/sirenko_marina)
+### 🧩 Hard skills / Хард-скилы
 
+- JavaScript (ES6+), TypeScript  
+- Vue 3 (Composition API), React (Hooks)  
+- HTML5, CSS3, responsive layout, Tailwind CSS  
+- Node.js (basic backend), Express.js, Fastify  
+- REST API integration, error handling, basic auth & permissions  
+- SQL: PostgreSQL, Supabase (RLS, auth, storage), basic MongoDB  
+- Git, GitHub, code review, branching strategies  
+- Basic performance optimization & monitoring (New Relic, Cloudflare)  
 
+- JavaScript (ES6+), TypeScript  
+- Vue 3 (Composition API), React (Hooks)  
+- HTML5, CSS3, адаптивная вёрстка, Tailwind CSS  
+- Node.js (базовый бэкенд), Express.js, Fastify  
+- Интеграция с REST API, обработка ошибок, базовая авторизация/права  
+- SQL: PostgreSQL, Supabase (RLS, авторизация, storage), базовый опыт с MongoDB  
+- Git, GitHub, code review, работа с ветками  
+- Базовая оптимизация производительности и мониторинг (New Relic, Cloudflare)
+
+---
+
+### 🧠 Soft skills / Софт-скилы
+
+- Can clarify vague requirements and turn them into concrete tasks  
+- Communicate comfortably with developers, designers and non-technical stakeholders  
+- Keep discussions calm and focused on the problem, not the personalities  
+- Like to document decisions and explain complex things in simple language  
+- Take responsibility, ask questions early and don’t disappear when something breaks  
+
+- Умею переводить размытые хотелки в понятные задачи  
+- Комфортно общаюсь и с разработчиками, и с дизайнерами, и с “недевами”  
+- Держу коммуникацию спокойной и сфокусированной на задаче, а не на людях  
+- Люблю документировать решения и объяснять сложное простым языком  
+- Ответственно отношусь к результату, задаю вопросы заранее и не пропадаю, когда что-то ломается
+
+---
+
+### 📈 Contributions in the last 3 years / Внесённый вклад за последние три года
+
+- Built and shipped several web applications from scratch (frontend + basic backend)  
+- Developed a budgeting/productivity app with multiple scenarios and currency logic  
+- Helped create internal tools and MVPs for small SaaS products  
+- Refactored legacy parts of codebase to a modern stack (Vue/React, TypeScript, Tailwind)  
+- Set up project structure, basic analytics/monitoring and error handling  
+
+- Разработала и запустила несколько веб-приложений с нуля (фронтенд + базовый бэкенд)  
+- Сделала сервис для личного бюджета/продуктивности с несколькими сценариями и логикой валют  
+- Участвовала в создании внутренних инструментов и MVP небольших SaaS-продуктов  
+- Переводила части проекта на современный стек (Vue/React, TypeScript, Tailwind)  
+- Настраивала структуру проектов, базовую аналитику/мониторинг и обработку ошибок
+
+---
+
+### 🛠 Tools I work with / Инструменты, с которыми работаю
+
+**Web & frontend:** Vue, React, JavaScript, TypeScript, Tailwind, HTML5, CSS3  
+**Backend (base):** Node.js, Express.js, Fastify  
+**Database / BaaS:** PostgreSQL, MongoDB, Supabase (auth, storage, RLS)  
+**Infra & tooling:** Git, GitHub, Cloudflare, New Relic, Cursor IDE  
+**Communication & tracking:** Slack, Discord, Jira, Notion  
+
+**Web & фронтенд:** Vue, React, JavaScript, TypeScript, Tailwind, HTML5, CSS3  
+**Бэкенд (база):** Node.js, Express.js, Fastify  
+**Базы / BaaS:** PostgreSQL, MongoDB, Supabase (auth, storage, RLS)  
+**Инфра и тулзы:** Git, GitHub, Cloudflare, New Relic, Cursor IDE  
+**Коммуникация и трекинг:** Slack, Discord, Jira, Notion
+
+---
+
+### 📬 Contacts / Контакты
+
+- Email: [you@example.com](mailto:you@example.com)  
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com)  
+- Telegram / Discord: `@your_nickname`  
+
+- Email: [you@example.com](mailto:you@example.com)  
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com)  
+- Telegram / Discord: `@your_nickname`
