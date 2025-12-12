@@ -9,32 +9,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
 </p>
 
-### 👋 About me / Обо мне
+### About me / Обо мне
 
-Mid-level Frontend Developer (Vue/React). I solve problems in code and communication and love understanding how systems work end to end.  
-Middle Frontend Developer (Vue/React). Решаю задачи — и в коде, и в коммуникации — и обожаю разбираться, как устроены системы целиком.
+Mid-level Frontend Developer (Vue/React). I help businesses and teams solve real problems. Open to new opportunities: remote or hybrid. Based in Russia, relocation is possible.
+
+Middle Frontend Developer (Vue/React). Помогаю бизнесам и командам решать реальные задачи. Открыта к предложениям: формат — удалённо или частично офис. Возможна работа из России, рассматриваю релокацию.
 
 ---
 
-### 🧩 Hard skills / Хард-скилы
+### Hard skills / Хард-скилы
 
 - JavaScript (ES6+), TypeScript  
-- Vue 3 (Composition API), React (Hooks)  
+- Vue 3, React  
 - HTML5, CSS3, responsive layout, Tailwind CSS  
-- Node.js (basic backend), Express.js, Fastify  
-- REST API integration, error handling, basic auth & permissions  
-- SQL: PostgreSQL, Supabase (RLS, auth, storage), basic MongoDB  
-- Git, GitHub, code review, branching strategies  
-- Basic performance optimization & monitoring (New Relic, Cloudflare)  
+- Node.js (basic backend): Express.js, Fastify  
+- REST API integration, error handling, basic authentication and access control  
+- Databases: MongoDB, PostgreSQL  
+- Supabase (RLS, authentication, storage)  
+- Git, GitHub, code review, branching workflows  
+- Performance and reliability: optimization, monitoring and infrastructure (New Relic, AWS, Cloudflare)  
+- Payments: Stripe integration  
+- Development and collaboration tools: VS Code, Cursor, Slack, Discord, Jira, Trello 
 
 - JavaScript (ES6+), TypeScript  
-- Vue 3 (Composition API), React (Hooks)  
+- Vue 3, React  
 - HTML5, CSS3, адаптивная вёрстка, Tailwind CSS  
-- Node.js (базовый бэкенд), Express.js, Fastify  
-- Интеграция с REST API, обработка ошибок, базовая авторизация/права  
-- SQL: PostgreSQL, Supabase (RLS, авторизация, storage), базовый опыт с MongoDB  
+- Node.js (базовый бэкенд): Express.js, Fastify  
+- Интеграция с REST API, обработка ошибок, базовая авторизация и права доступа  
+- Базы данных: MongoDB, PostgreSQL  
+- Supabase (RLS, авторизация, storage)  
 - Git, GitHub, code review, работа с ветками  
-- Базовая оптимизация производительности и мониторинг (New Relic, Cloudflare)
+- Производительность и надёжность: оптимизация, мониторинг и инфраструктура (New Relic, AWS, Cloudflare)  
+- Платежи: интеграция Stripe  
+- Инструменты разработки и командной работы: VS Code, Cursor, Slack, Discord, Jira, Trello
 
 ---
 
