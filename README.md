@@ -24,11 +24,11 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 - Vue 3, React  
 - HTML5, CSS3, responsive layout, Tailwind CSS  
 - Node.js (basic backend): Express.js, Fastify  
-- REST API integration, error handling, basic authentication and access control  
+- REST API integration, error handling, basic authentication, and access control  
 - Databases: MongoDB, PostgreSQL  
 - Supabase (RLS, authentication, storage)  
 - Git, GitHub, code review, branching workflows  
-- Performance and reliability: optimization, monitoring and infrastructure (New Relic, AWS, Cloudflare)  
+- Performance and reliability: optimization, monitoring, and infrastructure (New Relic, AWS, Cloudflare)  
 - Payments: Stripe integration  
 - Development and collaboration tools: VS Code, Cursor, Slack, Discord, Jira, Trello
 
@@ -49,8 +49,8 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 
 ### Soft skills / Софт-скилы
 **EN**
-- Comfortable working with ambiguous requirements: I clarify the problem, define success criteria and align expectations.
-- Communicate easily with developers, designers and non-technical stakeholders, staying patient and constructive even with stressed, forgetful or very demanding teammates.
+- Comfortable working with ambiguous requirements: I clarify the problem, define success criteria, and align expectations.
+- Communicate easily with developers, designers, and non-technical stakeholders, staying patient and constructive even with stressed, forgetful or very demanding teammates.
 - Curious and constantly learning from people I work with, and happy to help others whenever I know how to unblock them.
 - Enjoy documenting decisions and explaining complex topics in clear, simple language.
 - Take ownership of results: keep stakeholders updated, and stay present when things break or plans change.
@@ -78,35 +78,30 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 
 ### 📈 Contributions in the last 3 years / Внесённый вклад за последние три года
 
-- Built and shipped several web applications from scratch (frontend + basic backend)  
-- Developed a budgeting/productivity app with multiple scenarios and currency logic  
-- Helped create internal tools and MVPs for small SaaS products  
-- Refactored legacy parts of codebase to a modern stack (Vue/React, TypeScript, Tailwind)  
-- Set up project structure, basic analytics/monitoring and error handling  
+Последние три года я работала в команде https://x.com/johnrushx над проектом https://marsx.dev/. 
 
-- Разработала и запустила несколько веб-приложений с нуля (фронтенд + базовый бэкенд)  
-- Сделала сервис для личного бюджета/продуктивности с несколькими сценариями и логикой валют  
-- Участвовала в создании внутренних инструментов и MVP небольших SaaS-продуктов  
-- Переводила части проекта на современный стек (Vue/React, TypeScript, Tailwind)  
-- Настраивала структуру проектов, базовую аналитику/мониторинг и обработку ошибок
+**EN**
 
----
+- Built a reusable form components service covering all types of inputs — from simple text fields to advanced rich-text editors based on TipTap.  
+- Delivered the MVP of a website hosting SaaS product.  
+- Delivered the MVP of a website builder SaaS product.  
+- Implemented integrations with Notion, Wix, Webflow, and Framer for the SEO SaaS product [SeobotAI](https://app.seobotai.com/).  
+- Investigated and reproduced incoming bugs for the core IDE team.  
+- Onboarded new developers: assigned tasks and created written and video guides on how to work with the product.  
+- Contributed to building a website builder for the live bakery marketplace [Cake it Easy](https://www.cakeiteasy.no/) on top of MarsX IDE.  
 
-### 🛠 Tools I work with / Инструменты, с которыми работаю
+**RU**
 
-**Web & frontend:** Vue, React, JavaScript, TypeScript, Tailwind, HTML5, CSS3  
-**Backend (base):** Node.js, Express.js, Fastify  
-**Database / BaaS:** PostgreSQL, MongoDB, Supabase (auth, storage, RLS)  
-**Infra & tooling:** Git, GitHub, Cloudflare, New Relic, Cursor IDE  
-**Communication & tracking:** Slack, Discord, Jira, Notion  
-
-**Web & фронтенд:** Vue, React, JavaScript, TypeScript, Tailwind, HTML5, CSS3  
-**Бэкенд (база):** Node.js, Express.js, Fastify  
-**Базы / BaaS:** PostgreSQL, MongoDB, Supabase (auth, storage, RLS)  
-**Инфра и тулзы:** Git, GitHub, Cloudflare, New Relic, Cursor IDE  
-**Коммуникация и трекинг:** Slack, Discord, Jira, Notion
+- Создала сервис компонентов форм, который покрывает все типы полей ввода — от простого текстового инпута до продвинутых редакторов текста на базе TipTap.  
+- Собрала MVP SaaS-продукта для хостинга сайтов.  
+- Собрала MVP SaaS-продукта конструктора сайтов.  
+- Реализовала интеграции с Notion, Wix, Webflow и Framer для SaaS-продукта по SEO-оптимизации [SeobotAI](https://app.seobotai.com/).  
+- Расследовала и воспроизводила поступающие баги для команды core IDE.  
+- Вводила в проект новых разработчиков: распределяла задачи, готовила текстовые и видео-инструкции по работе с продуктом.  
+- Участвовала в создании конструктора сайтов для действующего маркетплейса пекарен [Cake it Easy](https://www.cakeiteasy.no/) на базе MarsX IDE.  
 
 ---
+
 
 ### 📬 Contacts / Контакты
 
