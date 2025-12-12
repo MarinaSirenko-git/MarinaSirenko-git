@@ -45,19 +45,21 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 
 ---
 
-### 🧠 Soft skills / Софт-скилы
+### Soft skills / Софт-скилы
 
-- Can clarify vague requirements and turn them into concrete tasks  
-- Communicate comfortably with developers, designers and non-technical stakeholders  
-- Keep discussions calm and focused on the problem, not the personalities  
-- Like to document decisions and explain complex things in simple language  
-- Take responsibility, ask questions early and don’t disappear when something breaks  
+- Comfortable working with ambiguous requirements: I clarify the problem, define success criteria and align expectations.
+- Communicate easily with developers, designers and non-technical stakeholders, staying patient and constructive even with stressed, forgetful or very demanding teammates.
+- Curious and constantly learning from people I work with, and happy to help others whenever I know how to unblock them.
+- Enjoy documenting decisions and explaining complex topics in clear, simple language.
+- Take ownership of results: keep stakeholders updated, and stay present when things break or plans change.
+- Use timeboxing/Pomodoro (25/5 or 50/10) to stay focused and structure my workday into deep-work blocks. 
 
-- Умею переводить размытые хотелки в понятные задачи  
-- Комфортно общаюсь и с разработчиками, и с дизайнерами, и с “недевами”  
-- Держу коммуникацию спокойной и сфокусированной на задаче, а не на людях  
-- Люблю документировать решения и объяснять сложное простым языком  
-- Ответственно отношусь к результату, задаю вопросы заранее и не пропадаю, когда что-то ломается
+- Умею работать с размытыми задачами: выясняю, какую проблему мы решаем и каким критериям должен соответствовать результат.
+- Комфортно общаюсь и с разработчиками, и с дизайнерами, и с «недевами», в том числе с забывчивыми, выгоревшими и особо требовательными коллегами.
+- Учусь у всех, кого встречаю на своём пути, и помогаю всем, кому знаю, как помочь.
+- Люблю документировать решения и объяснять сложные вещи простым языком.
+- Ответственно отношусь к результату, держу команду и стейкхолдеров в курсе прогресса, не пропадаю, когда что-то ломается или идёт не по плану.
+- Уже много лет работаю в режиме Pomodoro (25/5 или 50/10) и структурирую рабочий день на фокусные блоки.
 
 ---
 
