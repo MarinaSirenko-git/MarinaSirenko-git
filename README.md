@@ -10,15 +10,16 @@
 </p>
 
 ### About me / Обо мне
-
+**EN**
 Mid-level Frontend Developer (Vue/React). I help businesses and teams solve real problems. Open to new opportunities: remote or hybrid. Based in Russia, relocation is possible.
 
+**RU**
 Middle Frontend Developer (Vue/React). Помогаю бизнесам и командам решать реальные задачи. Открыта к предложениям: формат — удалённо или частично офис. Возможна работа из России, рассматриваю релокацию.
 
 ---
 
 ### Hard skills / Хард-скилы
-
+**EN**
 - JavaScript (ES6+), TypeScript  
 - Vue 3, React  
 - HTML5, CSS3, responsive layout, Tailwind CSS  
@@ -29,8 +30,9 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 - Git, GitHub, code review, branching workflows  
 - Performance and reliability: optimization, monitoring and infrastructure (New Relic, AWS, Cloudflare)  
 - Payments: Stripe integration  
-- Development and collaboration tools: VS Code, Cursor, Slack, Discord, Jira, Trello 
+- Development and collaboration tools: VS Code, Cursor, Slack, Discord, Jira, Trello
 
+**RU**
 - JavaScript (ES6+), TypeScript  
 - Vue 3, React  
 - HTML5, CSS3, адаптивная вёрстка, Tailwind CSS  
@@ -46,7 +48,7 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 ---
 
 ### Soft skills / Софт-скилы
-
+**EN**
 - Comfortable working with ambiguous requirements: I clarify the problem, define success criteria and align expectations.
 - Communicate easily with developers, designers and non-technical stakeholders, staying patient and constructive even with stressed, forgetful or very demanding teammates.
 - Curious and constantly learning from people I work with, and happy to help others whenever I know how to unblock them.
@@ -54,6 +56,7 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 - Take ownership of results: keep stakeholders updated, and stay present when things break or plans change.
 - Use timeboxing/Pomodoro (25/5 or 50/10) to stay focused and structure my workday into deep-work blocks. 
 
+**RU**
 - Умею работать с размытыми задачами: выясняю, какую проблему мы решаем и каким критериям должен соответствовать результат.
 - Комфортно общаюсь и с разработчиками, и с дизайнерами, и с «недевами», в том числе с забывчивыми, выгоревшими и особо требовательными коллегами.
 - Учусь у всех, кого встречаю на своём пути, и помогаю всем, кому знаю, как помочь.
@@ -61,6 +64,16 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 - Ответственно отношусь к результату, держу команду и стейкхолдеров в курсе прогресса, не пропадаю, когда что-то ломается или идёт не по плану.
 - Уже много лет работаю в режиме Pomodoro (25/5 или 50/10) и структурирую рабочий день на фокусные блоки.
 
+---
+
+### Languages / Языки
+**EN**
+- Russian — native  
+- English — B1 (comfortable with reading documentation and written communication; not yet confident enough for meetings and presentations)
+
+**RU**
+- Русский — родной  
+- Английский — B1 (комфортно читаю документацию и веду переписку, уровень пока недостаточен для созвонов и презентаций)
 ---
 
 ### 📈 Contributions in the last 3 years / Внесённый вклад за последние три года
