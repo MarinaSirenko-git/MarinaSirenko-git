@@ -78,12 +78,9 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 
 ### Contributions in the last 3 years / Внесённый вклад за последние три года
 
-Последние три года я работала в команде https://x.com/johnrushx над проектом https://marsx.dev/.
-MarsX IDE - инструмент разработки для инди хакеров или маленьких комманд. Ещё не вышла в бэту. Для визуализации можно представить себе Supabase только в разы масштабнее, позволяет переиспользовать ранее отписанные разными командами сервисы, легко настриваемый бэкенд, очень адаптивный фронтенд как в плане фреймворков так и в плане SSSR или SPA
-
 **EN**
 
-For the last three years, I’ve been working in John Rush’s team on MarsX.
+For the last three years, I’ve been working in [John Rush](https://x.com/johnrushx)’s team on [MarsX](https://marsx.dev/).
 MarsX IDE is a development platform for indie hackers and small teams. The product hasn’t entered open beta yet.
 You can think of it as Supabase, but on a much larger scale: it lets you reuse services built by different teams, quickly configure the backend, and build adaptive frontends with other frameworks, supporting both SSR and SPA.
 
@@ -97,7 +94,7 @@ You can think of it as Supabase, but on a much larger scale: it lets you reuse s
 
 **RU**
 
-Последние три года я работала в команде John Rush над платформой MarsX.
+Последние три года я работала в команде [John Rush](https://x.com/johnrushx) над платформой [MarsX](https://marsx.dev/).
 MarsX IDE — инструмент разработки для инди-хакеров и небольших команд. Продукт пока не вышел в открытую бету.
 Проще всего представить его как Supabase, но гораздо более масштабный: платформа позволяет переиспользовать уже написанные разными командами сервисы, быстро настраивать бэкенд и собирать адаптивный фронтенд на разных фреймворках — с поддержкой и SSR, и SPA.
 
