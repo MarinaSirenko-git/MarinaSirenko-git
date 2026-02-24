@@ -76,35 +76,42 @@ Middle Frontend Developer (Vue/React). Помогаю бизнесам и ком
 - Английский — B1 (комфортно читаю документацию и веду переписку, уровень пока недостаточен для созвонов и презентаций)
 ---
 
-### Contributions in the last 3 years / Внесённый вклад за последние три года
+### Contributions in the last 4 years / Внесённый вклад за последние четыре года
 
 **EN**
 
-For the last three years, I’ve been working in [John Rush](https://x.com/johnrushx)’s team on [MarsX](https://marsx.dev/).
-MarsX IDE is a development platform for indie hackers and small teams. The product hasn’t entered open beta yet.
-You can think of it as Supabase, but on a much larger scale: it lets you reuse services built by different teams, quickly configure the backend, and build adaptive frontends with other frameworks, supporting both SSR and SPA.
+Over the past 4 years, I worked at a full-cycle software [development studio](https://www.devhouse.pro/)
+building products for Northern European startups — from idea and MVP to scaling.
+11+ years on the market, 42+ delivered projects, and our clients’ products have raised 50M+ NOK in investments.
 
-- Built a reusable form components service covering all types of inputs — from simple text fields to advanced rich-text editors based on TipTap.  
-- Delivered the MVP of a website hosting SaaS product.  
-- Delivered the MVP of a website builder SaaS product.  
-- Implemented integrations with Notion, Wix, Webflow, and Framer for the SEO SaaS product [SeobotAI](https://app.seobotai.com/).  
-- Investigated and reproduced incoming bugs for the core IDE team.  
-- Onboarded new developers: assigned tasks and created written and video guides on how to work with the product.  
-- Contributed to building a website builder for the live bakery marketplace [Cake it Easy](https://www.cakeiteasy.no/) on top of MarsX IDE.  
+Across several projects (SaaS, e-commerce), I:
+
+- Built a UI component system for the CakeItEasy landing page builder (Vue 2, JS, CSS, BEM, MarsX IDE), enabling the marketplace to drop a third-party solution and reduce costs
+- Designed and migrated a form components library to Vue 3 with a unified API (TypeScript, Tailwind, TipTap, Headless UI), fully covering the team’s needs for form fields in new SaaS products
+- Developed an MVP SaaS for static website hosting (Vue 3, TypeScript/JavaScript, Node.js, Cloudflare, Stripe) with file CRUD, custom domain publishing, and a subscription model — validating the product hypothesis and stress-testing MarsX IDE capabilities
+- Delivered an MVP of a page editor (Vue, Node.js, MongoDB), laying the groundwork for future scalability
+- Integrated external APIs (Wix, Webflow), stabilized data exchange, reduced sync errors by 70%, and contributed to a 20% increase in new SEObot users
+- Led refactoring and performance optimization (Lighthouse, DevTools, eliminating unnecessary re-renders, form decomposition, asset optimization, debounce/throttle, SSR/CSR optimization), cutting key page load time by 1–1.5s and reducing network usage by 20–30%
+- Ensured stable releases and hotfixes via CI/CD pipelines, Git, npm scripts, build configs, and environment variables — enabling predictable deployments and branch synchronization
+- Migrated functionality to a new architecture without a full rewrite, preserving business logic and reducing regression risk
+- Worked in a Scrum team: broke down tasks, estimated timelines, maintained documentation in Notion, and recorded video guides (Loom), speeding up onboarding for new team members
 
 **RU**
 
-Последние три года я работала в команде [John Rush](https://x.com/johnrushx) над платформой [MarsX](https://marsx.dev/).
-MarsX IDE — инструмент разработки для инди-хакеров и небольших команд. Продукт пока не вышел в открытую бету.
-Проще всего представить его как Supabase, но гораздо более масштабный: платформа позволяет переиспользовать уже написанные разными командами сервисы, быстро настраивать бэкенд и собирать адаптивный фронтенд на разных фреймворках — с поддержкой и SSR, и SPA.
+Последние 4 года я работала в [разработческой студии](https://www.devhouse.pro/) полного цикла для стартапов Северной Европы: от идеи и MVP до масштабирования. 
+11+ лет на рынке, 42+ реализованных проекта, продукты клиентов привлекли более 50+ млн NOK инвестиций.
 
-- Создала сервис компонентов форм, который покрывает все типы полей ввода — от простого текстового инпута до продвинутых редакторов текста на базе TipTap.  
-- Собрала MVP SaaS-продукта для хостинга сайтов.  
-- Собрала MVP SaaS-продукта конструктора сайтов.  
-- Реализовала интеграции с Notion, Wix, Webflow и Framer для SaaS-продукта по SEO-оптимизации [SeobotAI](https://app.seobotai.com/).  
-- Расследовала и воспроизводила поступающие баги для команды core IDE.  
-- Вводила в проект новых разработчиков: распределяла задачи, готовила текстовые и видео-инструкции по работе с продуктом.  
-- Участвовала в создании конструктора сайтов для действующего маркетплейса пекарен [Cake it Easy](https://www.cakeiteasy.no/) на базе MarsX IDE.  
+В рамках работы над несколькими проектами(SaaS, E-commers) я:
+
+- Реализовала систему UI-компонентов для конструктора лендингов в CakeItEasy (Vue 2, JS, CSS, БЭМ, MarsX IDE), что позволило маркетплейсу отказаться от стороннего решения и сократить расходы
+- Спроектировала и перевела на Vue 3 библиотеку компонентов форм с единым API (TypeScript, Tailwind, TipTap, Headless UI), закрыв потребность команды в полях формы для новых SaaS сервисов на 100%
+- Разработала MVP SaaS для хостинга статических сайтов (Vue 3, TypeScript/JavaScript, Node.js, Cloudflare, Stripe) с CRUD файлов, публикацией на доменах и подписочной моделью, что позволило валидировать продуктовую гипотезу и провести важное тестирование возможностей MarsX IDE
+- Реализовала MVP редактора страниц (Vue, Node.js, MongoDB), заложив архитектуру для дальнейшего масштабирования
+- Интегрировала внешние API (Wix, Webflow), стабилизировала обмен данными, снизила ошибки синхронизации на 70%, способствовала росту новых пользователей SEObot на 20%
+- Проводила рефакторинг и performance-оптимизацию (Lighthouse, DevTools, устранение лишних ререндеров, декомпозиция форм, оптимизация ассетов, debounce/throttle, оптимизация SSR/CSR), сократив загрузку ключевых страниц на 1–1,5 c и сетевую нагрузку на 20–30%
+- Обеспечивала стабильные релизы и hotfix’ы  через CI/CD-пайплайны, Git, npm scripts, конфиги сборки и переменные окружения, обеспечивая предсказуемые деплои и синхронизацию веток
+- Переносила функциональность в новую архитектуру без полной переписи системы, сохраняя бизнес-логику и снижая риск регрессий
+- Работала в Scrum-команде, декомпозировала задачи, оценивала сроки, вела  документацию в Notion, записывала видео-инструкции (Loom), чем ускоряла онбординг новых участников
 
 ---
 
