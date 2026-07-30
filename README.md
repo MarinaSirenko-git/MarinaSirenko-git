@@ -47,9 +47,11 @@ Available for freelance work.
 - AI-assisted development as a working practice. Cursor as primary IDE, MCP servers, agentic tooling for boilerplate, refactors and repetitive markup. 
 
 **Frontend Developer, DevHouse** · November 2021 – June 2025
+
 Full-cycle studio building products for Northern European startups. Around 50 configurable Vue 3 + TypeScript + Tailwind form components for an internal low-code platform, covering validation, state handling and theming. Around 70 pixel-perfect responsive Vue 2 blocks and CMS screens for a landing page builder that replaced a third-party product. Content integrations with the Wix and Webflow APIs. Half my time went to debugging and refactoring the platform core: async issues, typing, business logic.
  
 **HTML Developer, Antirabstvo** · March 2018 – April 2019
+
 Career consulting platform, product team of around 30. Semantic responsive HTML/CSS in BEM after a contractor handover left key screens unbuilt. Worked directly with the marketing team on promo pages: prepared the mockups in Photoshop against the existing UI kit, then built them out.
  
 ---
